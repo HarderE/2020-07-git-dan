@@ -13,3 +13,9 @@
 - 'git diff --staged': diff files in the staging area
 - 'HEAD': where you are currently looking (i.e., what the files on your are)
 
+# Remotes
+
+- `git remote add origin <URL>`: add a remote URL
+example: git remote add origin https://github.com/HarderE/2020-07-git-dan.git
+- `git push origin master`: local -> remote
+- `git pull origin master`: remote -> local
