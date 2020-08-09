@@ -1,0 +1,174 @@
+$ history
+    1  dir
+    2  pwd
+    3  cd Desktop
+    4  mkdir 2020-07-git-dan
+    5  cd 2020-07-git-dan
+    6  pwd
+    7  explore .
+    8  explorer .
+    9  explorer .
+   10  ls -a
+   11  dir
+   12  git init
+   13  git config --global user.name "Edith Harder"
+   14  git config --global user.email "EdithHarder@gmail.com"
+   15  git config --global user.email "edithharder@gmail.com"
+   16  git config --global
+   17  git config --list
+   18  git config --list
+   19  pwd
+   20  ls -la
+   21  explorer .
+   22  cd Desktop
+   23  ls
+   24  cd 2020-07-git-dan
+   25  ls
+   26  ls -la
+   27  explorer .
+   28  pwd
+   29  pwd
+   30  git status
+   31  nano README.md
+   32  ls
+   33  ls -la
+   34  git status
+   35  explorer .
+   36  git add README.md
+   37  git status
+   38  git commit
+   39  ls
+   40  git status
+   41  history
+   42  got log
+   43  git log
+   44  git add README.md
+   45  nano README.md
+   46  git status
+   47  history
+   48  git commit
+   49  git add README.md
+   50  git status
+   51  nano README.md
+   52  git commit
+   53  git status
+   54  git log
+   55  nano README.md
+   56  git status
+   57  get add README.md
+   58  git commit -m "Reformulating explanations of some commands"
+   59  get add
+   60  get add README.md
+   61  git add README.md
+   62  git commit -m "Reformulating explanations of some commands"
+   63  git log
+   64  cat README.md
+   65  ls -la
+   66  cat desktop.ini
+   67  nano README.md
+   68  log status
+   69  git status
+   70  git diff README.md
+   71  git diff
+   72  get cola
+   73  git cola
+   74  git diff README.md
+   75  git add README.md
+   76  git status
+   77  git status README.md
+   78  git diff
+   79  git diff --stage
+   80  git diff --staged
+   81  git commit -m "Fix typo"
+   82  git HEAD
+   83  HEAD
+   84  git status
+   85  git log
+   86  got log --oneline
+   87  git log --oneline
+   88  git diff HEAD~2
+   89  git diff HEAD~3
+   90   git log --oneline
+   91  git diff 63b4cc1
+   92  histoy
+   93  nano README.md
+   94  git add README.md
+   95  git status
+   96  git restore --staged README.md
+   97  git status
+   98  git add README.md
+   99  git commit -m "talked about log, diff and HEAD"
+  100  got status
+  101  git status
+  102  history
+  103   git log --oneline
+  104  git diff ca8506f
+  105  git checkout HEAD~4 README.md
+  106  git status
+  107  cat README.md
+  108  git log --oneline
+  109  history
+  110   git restore --staged README.md
+  111  cat README.md
+  112  git restore README.md
+  113  cat README.md
+  114  history
+  115  git log --oneline
+  116  git checkout ca8506f
+  117  get status
+  118  git status
+  119  cat README.md
+  120  history
+  121  get checkout master
+  122  git checkout master
+  123  git log --oneline
+  124  cat README.md
+  125  git log --oneline
+  126  git log --oneline --all
+  127  git checkout ca8506f
+  128  git log --oneline
+  129  git log --oneline --all
+  130  car README.md
+  131  cat README.md
+  132  git checkout master
+  133  cat README.md
+  134  git remote add origin https://github.com/HarderE/2020-07-git-dan.git
+  135  git remote -v
+  136  git push origin master
+  137  git push origin master
+  138  explorer .
+  139  git status
+  140  ls -la
+  141  nano Analysis/README.md
+  142  nano Daya/README.md
+  143  git status
+  144  git remote -v
+  145  history
+  146  nano .gitinore
+  147  git status
+  148  nano .gitinore
+  149  git status
+  150  nano .gitinore
+  151  git status
+  152  rm .gitinore
+  153  git status
+  154  git add .
+  155  git commit -m "ignore file and folder"
+  156  git push origin master
+  157  history
+  158  cat README.md
+  159  git pull origin master
+  160  cat README.md
+  161  namo README.md
+  162  nano README.md
+  163  git status
+  164  git add README.md
+  165  git commit -m "change title on local comuter"
+  166  git push origin master
+  167  git pull origin master
+  168  nano README.md
+  169  git status
+  170  git add README.md
+  171  git status
+  172  git commit -m "Fix conflits"
+  173  git push origin master
