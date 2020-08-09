@@ -1,6 +1,7 @@
 # 2020-07-git-dan
 
 - 'git init' : create repository in your current folder
-- 'git add': put a file in the temporary area
-- 'git commit': put the file back to the master area
-- 'git status': will show which files to 'add' or 'commit'
+- 'git add <path>': put a path to the staging
+- 'git commit -m': will open an editor to write a commit message
+- 'git commit -m "<message>"': write the <message> to commit in one step 
+- 'git status': everything you need to know about current status
